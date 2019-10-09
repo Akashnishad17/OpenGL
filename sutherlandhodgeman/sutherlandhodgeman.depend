@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1570026245 source:c:\users\akash nishad\documents\opengl\cohensutherland\main.cpp
+1570639683 source:e:\opengl\sutherlandhodgeman\main.cpp
 	<gl/glut.h>
 	<gl/gl.h>
 	<stdlib.h>
@@ -242,11 +242,4 @@
 
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
-
-1570026841 source:e:\opengl\cohensutherland\main.cpp
-	<gl/glut.h>
-	<gl/gl.h>
-	<stdlib.h>
-	<stdio.h>
-	<math.h>
 
