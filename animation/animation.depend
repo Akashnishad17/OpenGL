@@ -1,10 +1,20 @@
 # depslib dependency file v1.0
-1570640501 source:e:\opengl\sutherlandhodgeman\main.cpp
-	<gl/glut.h>
-	<gl/gl.h>
+1573666594 source:e:\opengl\animation\main.cpp
+	<GL/glut.h>
 	<stdlib.h>
-	<stdio.h>
 	<math.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
 
 1426327440 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	"freeglut_std.h"
@@ -72,8 +82,6 @@
 1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
 	<_mingw.h>
 	<stddef.h>
-
-1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
 
 1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
 
@@ -230,16 +238,27 @@
 	<stddef.h>
 	<GL/gl.h>
 
-1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
-	<stddef.h>
-	<stdarg.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
 	<sys/types.h>
 
-1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+1341006774 c:\program files (x86)\codeblocks\mingw\include\io.h
 	<_mingw.h>
+	<sys/types.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdint.h
 	<stddef.h>
 
-1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+1341006772 c:\program files (x86)\codeblocks\mingw\include\getopt.h
 	<_mingw.h>
 
